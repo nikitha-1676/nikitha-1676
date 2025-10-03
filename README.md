@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nikitha
 - 👀 I’m interested in painting, reading, binge-watching tennis matches, and Netflix.
-- 🌱 I’m currently learning Python and how to survive high school.
+- 🌱 Programming languages: Java, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
